@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5005';
+const BASE_URL = 'https://backendblog-5.onrender.com';
 
 // Signup
 const signupForm = document.getElementById('signupForm');
